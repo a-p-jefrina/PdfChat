@@ -21,10 +21,8 @@ pip install -r requirements.txt
 2. Ensure you have downloaded the 8-bit quantised GGML binary file from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main and placed it into the models/ folder
 
 3. To start parsing user queries into the application, launch the terminal from the project directory and run the following command:
-   
-   <code>
-      python main.py "user query"
-   </code>
+
+   <code>python main.py "user query"</code>
    
 # Result
 ![cmd_ans](https://github.com/user-attachments/assets/a8a47b6c-298d-43f7-aa11-23d161187796)
