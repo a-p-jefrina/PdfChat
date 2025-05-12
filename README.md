@@ -1,6 +1,17 @@
 # PdfChat
 An AI-driven tool designed to streamline document interpretation, specifically tailored for loan and agreement documents.
 
+# Objectives
+   1. To help users analyze stock or loan agreements efficiently by utilizing advanced retrieval techniques. 
+   
+   2. To cover agreement document processing, chunking, query handling, and real-time response generation.
+   
+   3. To deliver precise and context-aware responses instantly, improving both speed and accuracy.
+   
+   4. To automate document chunking and generate vector embeddings for efficient information retrieval.  
+   
+   5. To implement a RAG system using FAISS and Llama2-7B for accurate information retrieval and response generation.  
+
 # Installation
 pip install -r requirements.txt
 
